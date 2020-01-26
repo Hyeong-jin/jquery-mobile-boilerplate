@@ -1,2 +1,5 @@
-svn
-subprojects
+svn/
+.svn/
+subprojects/
+node_modules/
+.DS_Store/
