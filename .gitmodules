@@ -1,0 +1,6 @@
+[submodule "jquery-mobile-ui-boilerplate"]
+	path = jquery-mobile-ui-boilerplate
+	url = https://github.com/Hyeong-jin/jquery-mobile-ui-boilerplate.git
+[submodule "jquery-mobile-app-boilerplate"]
+	path = jquery-mobile-app-boilerplate
+	url = https://github.com/Hyeong-jin/jquery-mobile-app-boilerplate.git
